@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsApp", "OperatorsApp\OperatorsApp.csproj", "{58203534-57DA-43A6-9959-003DEC67A45C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsControlFlowTest", "OperatorsControlFlowTest\OperatorsControlFlowTest.csproj", "{A2E795C2-3005-4BD1-8636-F3339DCDC6B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58203534-57DA-43A6-9959-003DEC67A45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58203534-57DA-43A6-9959-003DEC67A45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58203534-57DA-43A6-9959-003DEC67A45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58203534-57DA-43A6-9959-003DEC67A45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E795C2-3005-4BD1-8636-F3339DCDC6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E795C2-3005-4BD1-8636-F3339DCDC6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E795C2-3005-4BD1-8636-F3339DCDC6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E795C2-3005-4BD1-8636-F3339DCDC6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E2611C-4516-4783-ABCC-CF20CB23447D}
+	EndGlobalSection
+EndGlobal

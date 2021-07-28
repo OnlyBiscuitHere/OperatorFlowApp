@@ -1,0 +1,16 @@
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\OperatorsApp.csproj.AssemblyReference.cache
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\OperatorsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\OperatorsApp.AssemblyInfoInputs.cache
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\OperatorsApp.AssemblyInfo.cs
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\OperatorsApp.csproj.CoreCompileInputs.cache
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\bin\Debug\net5.0\OperatorsApp.exe
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\bin\Debug\net5.0\OperatorsApp.deps.json
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\bin\Debug\net5.0\OperatorsApp.runtimeconfig.json
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\bin\Debug\net5.0\OperatorsApp.runtimeconfig.dev.json
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\bin\Debug\net5.0\OperatorsApp.dll
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\bin\Debug\net5.0\ref\OperatorsApp.dll
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\bin\Debug\net5.0\OperatorsApp.pdb
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\OperatorsApp.dll
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\ref\OperatorsApp.dll
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\OperatorsApp.pdb
+C:\Users\h8bmf\source\repos\OperatorsControlFlow\OperatorsApp\obj\Debug\net5.0\OperatorsApp.genruntimeconfig.cache
